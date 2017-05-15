@@ -33,3 +33,22 @@ CSS can be used in html document but MUST be nested in < head></ head> tag Examp
 <head>
 <style></style>
 </head>
+
+CSS Boiler would look like this 
+<!DOCTYPE html>
+  <html> 
+    <head>
+    <style>
+    CSS goes here
+    </style>
+      <title> Index </title> 
+    </head>
+    
+    <body>
+    </body>
+    
+  </html>
+  
+  Creating anything other than minimal CSS code is INEFFICIENT and CLUNKY - for the best use of CSS and HTML you should create separate files and link them together Consider this 
+  HTML is the ARCHITECTRURE of the web page 
+  CSS is the PAINT and ADORNMENTS of the web page 
