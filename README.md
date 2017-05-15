@@ -25,3 +25,11 @@ Boiler Code
   <a></a> is a basic anchor - always needs an attribute to work 
   <a href="">can add text here</a> can also add images inside anchor tags 
   <a href="" <img src=""></a>
+
+
+CSS NOTES 
+
+CSS can be used in html document but MUST be nested in < head></ head> tag Example:
+<head>
+<style></style>
+</head>
